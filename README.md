@@ -1,1 +1,1 @@
-# Ai-homework-solver
+# Ai-math homework solver
